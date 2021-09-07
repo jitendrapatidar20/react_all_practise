@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.App{
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+}
+
+.bigblue {
+
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+  }
